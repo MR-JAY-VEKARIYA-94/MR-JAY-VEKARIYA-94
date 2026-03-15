@@ -13,7 +13,7 @@ Now, I am pivoting my focus toward **Artificial Intelligence and Machine Learnin
 
 - ✅ **Milestone Accomplished:** Completed Professional MERN Stack Training.
 - 🌱 **Next Goal:** Learning Python for Data Science & ML Algorithms.
-- 🔭 **Current Focus:** CMAT Preparation & Entrance Exams.
+- 🔭 **Current Focus:** Entrance Exams.
 
 
 💻 Tech Stack (Web Dev)
